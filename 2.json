@@ -1,4 +1,4 @@
 {
-    "ENABLE_ADMOB": true,
-    "ENABLE_FACEBOOK": false
+    "admob": true,
+    "facebook": false
 }
