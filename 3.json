@@ -1,5 +1,5 @@
 {
     "adStatus": "1",
-    "adNetwork": "fan",
-    "backupAdNetwork": ""
+    "adNetwork": "admob",
+    "backupAdNetwork": "fan"
 }
